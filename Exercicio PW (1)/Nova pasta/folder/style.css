@@ -1,0 +1,86 @@
+h2
+{
+    font-size: 30px;
+    line-height: 80px;
+    color: #ec008c;
+}
+body
+{
+    margin: 11;
+    padding: 11;
+    font-size: 20px;
+    font-family:'Montserrat', sans-serif;
+    color:black;
+    background-color: #fff;
+    line-height: 20px;
+}
+p
+{
+    text-align: justify;
+}
+/* id fica antes do nome*/
+#logo
+{
+    color:#ec008c;
+    font-size: 24px;
+    padding-top: 11px;
+    float: left;
+}
+header
+{
+    background-color: beige;
+    height: 80px;
+    padding: 0;
+    margin: 0;
+}
+/*tirar bolinha*/
+nav
+{
+    float: right;
+    padding: 23px 7px 0 0;
+}
+
+nav ul
+{
+    list-style-type: none;
+}
+nav ul li{
+    float: left;
+    padding-left: 40px;
+}
+nav ul li a{
+    font-size: 18px;
+    line-height: 24px;
+    color: #ec008c;
+    font-weight: bold;
+}
+a:hover
+{
+    text-decoration: none;
+    color: #ec008c;
+}
+img
+{
+    float: right;
+}
+principal
+{
+
+}
+.caixa
+{
+    float: left;
+    width: 280px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+footer
+{
+    clear: both;
+    background-color: #fff;
+    font-size: 11px;
+    color: antiquewhite;
+    height: 46px;
+    border-top: 1px solid #ccc;
+    margin: 10px;
+}
